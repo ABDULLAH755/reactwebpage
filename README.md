@@ -1,1 +1,1 @@
-A responsive React frontent using functional component and UseState hook.
+A responsive React frontend using functional component and UseState hook.
